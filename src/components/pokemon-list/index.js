@@ -1,1 +1,1 @@
-export { default } from './list-container.js'
+export { default } from './pokemon-container.js'
